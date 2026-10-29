@@ -11,7 +11,7 @@ This repository provides a modular, reproducible R-based bioinformatics pipeline
 
 ## 📊 Data Availability & Input Files
 
-* **Raw Data (GEO):** The raw sequencing matrices generated in this study are deposited in the NCBI Gene Expression Omnibus under accession number **GSE342902**.
+* **Raw Data (GEO):** The raw sequencing matrices generated in this study are deposited in the NCBI Gene Expression Omnibus under accession number **GSE334037**.
 * **Intermediate Input Files:** 
   * `05_B_cell.R` reads `B_cells_clustered.rds`, which represents the pre-clustered B cell subset derived from the main integrated dataset (`combined_final.rds`). Ensure all necessary subset `.rds` files are placed in your working directories as indicated in the script headers before execution.
 
