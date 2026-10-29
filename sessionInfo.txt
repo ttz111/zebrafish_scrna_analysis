@@ -1,0 +1,10 @@
+> sessionInfo() 
+R version 4.4.3 (2025-02-28)
+Platform: x86_64-pc-linux-gnu
+Running under: Ubuntu 22.04.5 LTS
+
+other attached packages:
+lubridate (v1.9.5) forcats (v1.0.1) stringr (v1.6.0) purrr (v1.2.2) readr (v2.2.0)
+tidyr (v1.3.2) tibble (v3.3.1) tidyverse (v2.0.0) patchwork (v1.3.2) CellChat (v1.6.1)
+igraph (v2.3.3) dplyr (v1.2.1) ggplot2 (v3.5.2) Seurat (v5.5.1) SeuratObject (v5.4.0)
+sp (v2.2-3) mindr (v1.4.1) generics (v0.1.4) Biobase (v2.72.0) BiocGenerics (v0.52.0)
